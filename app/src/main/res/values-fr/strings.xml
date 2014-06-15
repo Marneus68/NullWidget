@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="configure">Configurer</string>
+    <string name="add_widget">Ajouter le widget</string>
+
+    <string name="widget_desc">Widget vide</string>
+
+</resources>
